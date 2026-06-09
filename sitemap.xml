@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://utvtop.com/</loc><changefreq>daily</changefreq></url>
-  <url><loc>https://utvtop.com/best-utv-hard-tops.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://utvtop.com/buyers-guide.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://utvtop.com/about.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://utvtop.com/contact.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://utvtop.com/how-to-choose-utvtop-may-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://utvtop.com/best-utvtop-2026.html</loc><lastmod>2026-05-17</lastmod></url>
-  <url><loc>https://utvtop.com/utvtop-tested-ranked-2026.html</loc><lastmod>2026-05-22</lastmod></url>
-  <url><loc>https://utvtop.com/utvtop-what-buyers-need-2026.html</loc><lastmod>2026-05-24</lastmod></url>
-  <url><loc>https://utvtop.com/best-utvtop-without-overpaying.html</loc><lastmod>2026-05-26</lastmod></url>
-  <url><loc>https://utvtop.com/utvtop-quality-vs-marketing.html</loc><lastmod>2026-05-28</lastmod></url>
-  <url><loc>https://utvtop.com/smart-utvtop-shopping-2026.html</loc><lastmod>2026-05-31</lastmod></url>
-  <url><loc>https://utvtop.com/what-we-look-for-utvtop-2026.html</loc><lastmod>2026-06-05</lastmod></url>
-  <url><loc>https://utvtop.com/utvtop-practical-guide-2026.html</loc><lastmod>2026-06-06</lastmod></url>
+  <url>
+    <loc>https://utvtop.com/</loc>
+    <lastmod>2026-06-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>
